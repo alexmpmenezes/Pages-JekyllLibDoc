@@ -1,10 +1,10 @@
 ---
-title: Credits
-description: Resources used into LibDoc
+title: Azure Services
+description: Relates Azure Services
 layout: libdoc/page
 
 #LibDoc specific below
-category: Features
+category: Technical
 order: 112
 ---
 
