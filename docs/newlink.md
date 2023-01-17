@@ -10,7 +10,7 @@ order: 112
 
 LibDoc was built using the great following resources:
 
-For core features:
+For core features: :
 
 * [Jekyll](https://jekyllrb.com/) *Of course^^* Transform your plain text into static websites and blogs.
 * [GitHub: Where the world builds software](https://github.com) GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
