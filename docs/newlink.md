@@ -1,6 +1,6 @@
 ---
-title: Azure Services
-description: Relates Azure Services
+title: Related Frameworks
+description: External frameworks
 layout: libdoc/page
 
 #LibDoc specific below
