@@ -179,10 +179,10 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: https://olivier3lanc.github.io/Scroll-Btween/
-            title: Scroll Btween
-            order: 500
-            category: Examples using LibDoc
+        #-   url: https://olivier3lanc.github.io/Scroll-Btween/
+        #    title: Scroll Btween
+        #    order: 500
+        #    category: Examples using LibDoc
         #-   url: https://olivier3lanc.github.io/Scroll-Frames/
         #    title: Scroll Frames
         #    order: 500
@@ -192,8 +192,8 @@ sidebar:
         #    order: 500
         #    category: Examples using LibDoc
         # Example remote URL
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc
-            title: <span class="i-github u-mr-xxs"></span> Jekyll LibDoc
+        -   url: https://azure.microsoft.com/en-us/
+            title: <span class="i-github u-mr-xxs"></span> Microsoft Azure
             order: 510
             category: External resources
         #-   url: https://pages.github.com
