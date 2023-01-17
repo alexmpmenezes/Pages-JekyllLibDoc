@@ -182,7 +182,7 @@ sidebar:
         -   url: https://olivier3lanc.github.io/Scroll-Btween/
             title: Scroll Btween
             order: 500
-        #    category: Examples using LibDoc
+            category: Examples using LibDoc
         #-   url: https://olivier3lanc.github.io/Scroll-Frames/
         #    title: Scroll Frames
         #    order: 500
